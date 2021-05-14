@@ -66,7 +66,7 @@ function setup() {
   obstaclesGroup = new Group();
   
   score = 0;
-  console.log("reshma")
+  console.log("yjy")
 }
 
 function draw() {
